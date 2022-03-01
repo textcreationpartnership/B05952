@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement and addition unto a printed paper, bearing date July 25. 1692. And thus superscribed, To Our Sovereign Lord, King James the II. Rightful King of Great Brittain, and Ireland, wheresoever he now inhabits in the parts beyond the seas. / Richard Stafford, a scribe instructed in the law of God, desireth a speedy, safe, and peaceable coming into England.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05952</idno>
+            <idno type="STC">Wing S5139</idno>
+            <idno type="STC">ESTC R184563</idno>
+            <idno type="EEBO-CITATION">52614962</idno>
+            <idno type="OCLC">ocm 52614962</idno>
+            <idno type="VID">176199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176199)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2764:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement and addition unto a printed paper, bearing date July 25. 1692. And thus superscribed, To Our Sovereign Lord, King James the II. Rightful King of Great Brittain, and Ireland, wheresoever he now inhabits in the parts beyond the seas. / Richard Stafford, a scribe instructed in the law of God, desireth a speedy, safe, and peaceable coming into England.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>At end of text on p. 4: Written April the 2d 1695.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>Jacobites --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="addendum">
+            <pb n="1" facs="tcp:176199:1"/>
+            <head>A S<g ref="char:V">Ʋ</g>PPLEMENT and ADDITION unto a Printed Paper, Bearing Date <hi>July 25. 1692.</hi> And thus Superſcribed, To our Sovereign Lord, King <hi>JAMES</hi> the <hi>II.</hi> Rightful King of <hi>Great Brittain,</hi> and <hi>Ireland,</hi> whereſoever He now Inhabits in the Parts beyond the Seas. <hi>RICHARD STAFFORD,</hi> a Scribe Inſtructed in the Law of God, Deſireth a Speedy, Safe, and Peaceable Coming into <hi>England.</hi>
+            </head>
+            <p>AS it is written, <hi>When Meſſias is come, He will tell us all things,</hi> Joh. 4.25. <hi>And thou ſhalt remember all the way which the Lord thy God led th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e theſe forty Years in the Wilderneſs,</hi> Deut. 8.2. And it is yet more evident from that ſaying of <hi>Abra<g ref="char:EOLhyphen"/>ham: Son, remember that thou in thy Life-time receivedst thy good things.</hi> Luk. 16.25. And that manner of Speech, <hi>The Former ſhall not be remembred, nor come into mind,</hi> Iſa. 65.17. And alſo from that kind of Expreſſion, <hi>Then ſhall ye Return and Diſcern.</hi> Mal. 3.18. From all theſe Scriptures put together this Propoſition of Truth ariſes, <hi>viz.</hi> That in the fu<g ref="char:EOLhyphen"/>ture Life we ſhall remember, know, diſcern, and perceive the Things of this Preſent, but then paſt Life, more clearly and evidently than we do now we are in it. And ſo, I believe and teſtify beforehand, That then we ſhall remember, know, diſcern, and perceive, That in this Letter of mine directed unto him, or in this Teſtimony of Truth, bearing Date, <hi>July</hi> 25. 1692. <hi>The way was ſhewed, Pointed, and Chalked out, whereby King</hi> James <hi>might have Re<g ref="char:EOLhyphen"/>covered his Kingdom, and might have boen Re-inſtated and ſet upon the Throne of his Progeni<g ref="char:EOLhyphen"/>tors again.</hi> And how that if the <hi>King had truſted in the Lord, through the Mercy of the moſt High, He ſhould not be moved,</hi> Pſal. 21.7. for nothing was therein intimated or directed un<g ref="char:EOLhyphen"/>to him, but what was lawful and right. And that all thoſe manifold Surmiſes and Imagina<g ref="char:EOLhyphen"/>tions, How that his Enemies and Rebellious Subjects within this Realm, and the Ignorant Gid<g ref="char:EOLhyphen"/>dy Multitude (God could, and can yet turn their Hearts to be as much for Him, as now they are againſt Him, which laſt comes to paſs thro' ſo many Lyes and wrong Surmiſes conceived concerning him) would put Him to Death or harm Him, were falſe; and they were the Fright<g ref="char:EOLhyphen"/>nings of Satan; for thro' the others Omiſſion and Fear in this kind, The Peril doth ſerve one end of his Kingdom; which is to keep and continue People longer in their Sins, and to hinder Peace from the Earth.</p>
+            <p>But <hi>the Children of Belial ſaid, How ſhall this Man ſave us, and they deſpiſed him,</hi> 1 Sam. 10.27. So the Multitude and Generality of People are apt to ſay. Is this a likely way or fit Means for a Mighty Monarch, and once a Puiſſant formidable Prince to come over in a Pac<g ref="char:EOLhyphen"/>quet Boat or ſmall Veſſel, only with a few Servants, to recover his Kingdom; eſpecially when Fleets and Armies, and the Power of a whole Nation are Engag'd againſt Him? But (beſides that He had better come over this way then not at all) This account may be given thereof in Reaſon, and from the common Experience of things. For even they who would oppoſe Him, and confront Force to Force, if once He ſhould attempt to Land in an Hoſtile
+<pb n="2" facs="tcp:176199:2"/>manner, would not ſo mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h as hurt the Hair of his Head, nor touch the outſide of his Gar<g ref="char:EOLhyphen"/>ment, if He come in peaceably. There would not be the like Occaſion and Pretence for ſo doing, Things altogether as unlikely (as what is here imagined) have come to paſs, and been brought about, when they have been tranſacted all along exactly in the way and Me<g ref="char:EOLhyphen"/>thod of God. <hi>For all this I conſidered in mine Heart, even to declare all this, That the Righ<g ref="char:EOLhyphen"/>teous and the Wiſe, and their Works are in the Hands of God.</hi> Eceleſ. 9.1. Who are ſafe under his inviſible Protection. (<hi>He ſhall cover thee with his Feathers, and under his wings ſhalt thou truſt,</hi> Pſal. 91.4.) even whilſt the Rulers take Counſel together againſt the Lord, and againſt his Anointed: And even whilſt Ten thouſands of the People have ſet themſelves againſt me round about. The very means whereby God would bring a thing to paſs, do all along ſeem to the People of the World to be deſpicable Means.</p>
+            <p>And <hi>by a Prophet the Lord brought Iſrael out of Egypt, and by a Prophet was he preſerved.</hi> Hoſ. 12.13.</p>
+            <p>And ſo every and each Thought, which as yet hinders the King from coming over, and from doing as is there ſhew'd unto him is a falſe and untrue Thought. I have often Reaſon'd, and been Muſing within my ſelf, That if it was indeed the mind and good Pleaſure of God to bring the King over and Re-inſtate H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m; Why then doth not God put the ſame Thoughts into His Soul as into mine, in order to ſet Him again upon the Throne? Or, Wherefore is it that all my Writings on his behalf ſeem only as ſo many Gueſſes and Imaginations? But as yet, many are apt to object unto me, <hi>Thou doſt not hit upon the Right way, O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God doth not give ſuch a Seal and Evidence, and Teſtimony unto the word of his Grace which appears forth through thee,</hi> That the People as yet do not obey and diſcern it. I do here <hi>confeſe</hi> to his <hi>Glo<g ref="char:EOLhyphen"/>ry,</hi> Joſh. 7.19. but to mine own Shame, That in ſome things I have <hi>feared,</hi> and <hi>been diſmay<g ref="char:EOLhyphen"/>ed,</hi> and <hi>been lacking.</hi> And as to other things in the management of that Great and Good Work which herein hath been committed to me, I have err'd, and been ignorant. Some rea<g ref="char:EOLhyphen"/>ſon whereof, and of what is heae objected, is to be imputed to the manifold and continued Op<g ref="char:EOLhyphen"/>poſitions of Satan. <hi>And he ſhewed me Joſhua the High Prieſt ſtanding before the Angel of the Lord, and Satan at his Right hand to reſiſt him,</hi> Zac. 3.1. <hi>Only he who now letteth will lett until he be taken out of the way.</hi> 2 Theſ. 2.7.</p>
+            <p>But then again as on one ſide, the work of the Lord as it was committed to my manage<g ref="char:EOLhyphen"/>ment, hath ſuffered much dimunition, loſs and diſadvantage thro' my unbelief and Ignorance, and beceuſe mine own Life and Conveſation comes ſo very ſhort, and ſo much behind of what was that of his Antient Prophets, or of his Servants of old time. <hi>Depart ye, depart ye, G<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ye out from hence, Touch ur unclean thing, Go ye out of the midſt of her, Be ye clean that bear the Veſſels of the Lord,</hi> Iſa 52. v. 11. And ſo I ſhould have got out and ſeparated from amongſt my Brethren, and I ſhould have endeavoured to have exceeded even them (who live in the ſtricteſt Sect of our Religion, and in the moſt circumpect walking) in all holy converſation and God<g ref="char:EOLhyphen"/>lineſs, and in conſtant univerſal Zeal for the Lord our God. But alas! and Woe unto me; all this I have not done.</p>
+            <p>So on the other ſide, it was good and ſeaſonable Advice which (having ſaw and received the ſame out of the Glaſs of the Word) I gave unto the King, that during the time of His Deprivation, He ſhould not live in outward Mirth and Recreations (I am ſorry to hear that he gives way to the latter, unleſs it is for his Healths ſake) For it is not a proper time to <hi>drink wine in Bowls, and anoint themſelves with the chief Ointment,</hi> Amos 6.6. When they ought to be grieved for the <hi>affliction ef Joſeph.</hi> And ſo the King ought to be affected and ſym<g ref="char:EOLhyphen"/>pathize alſo with thoſe that ſuffer here for his Righteous Cauſe, and in this ſenſe to <hi>weep with them that weep,</hi> Rom, 12.15. I repeat and put him in mind of it again, That even now He ſhould be in a State of Humiliation, and waiting on the Lord, of Faſting, Sackcloth, and
+<pb n="3" facs="tcp:176199:2"/>Mourning, that He may be Worthy for God to do ſome Great and Good thing for him towards his latter End. This Worthineſs or rather Meekneſs doth not altogether ſo much conſiſt in outward Worſhip, or in great Shew and Quantity of Devotion, Nor yet to go further, by ob<g ref="char:EOLhyphen"/>ſervation of Part of God's Law, but by <hi>confirming all the words of Gods Law to do them,</hi> Deu. 27.26. By reſolving and performing it like the man after God's own heart, <hi>For all his judg<g ref="char:EOLhyphen"/>ments were before me, and I did not put away his Statutes from me,</hi> Pſal. 18.22.</p>
+            <p>When God did intend to do good unto his Servant <hi>David</hi> in putting away his Sin, He did firſt reprove him thereof by his Prophet <hi>Nathan;</hi> ſo that the King ſhould not be angry at what reproof of Sin or Error hath been in himſelf, for in like manner this (according to the Divine method) may be a forerunner of intended good unto him. And ſo certainly, That <hi>God might be juſtified when he ſpeaketh, and be clear when he judgeth.</hi> Pſal. 50.4. There is ſome Sin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Fault, ſome unworthineſs or unpreparation, ſome Iniquity or Tranſgreſſion in the King, which hath occaſioned this Affliction, And as yet hinders good things from him.</p>
+            <p>In fine, As to his coming or not coming again, Tho' the Prayers and Endeavours of all ho<g ref="char:EOLhyphen"/>neſt People ought to be that <hi>judgment ſhould return to righteouſneſs,</hi> Pſal. 94.15. and that Right ſhould take place; Yet before and after all, we ought to acquieſce in the will of God; ſaying with <hi>David</hi> (which ſame ſhould be the mind both of the King, and alſo of thoſe Inhabitants of this Nation, who during his Abſence from them, do yet ſtill retain their Alle<g ref="char:EOLhyphen"/>giance, Faithfulneſs and Subjection unto Him. <hi>If I ſhall find Favour in the eyes of the Lord, he will bring me again; But if he thus ſay, I have no delight in thee, Behold, here am I, let him do to me as ſeemeth good unto him,</hi> 2 Sam. 15.25, 26. Notwithſtanding <hi>David</hi> ſpake thus, yet God did bring him up again, but <hi>David</hi> did uſe the means for it, and not lie ſtill.</p>
+            <p>Towards the cloſe of my aforeſaid Letter, there is brought in a <hi>Dilemma</hi> (which is the moſt forcible ſort of Arguments) to perſuade the King to endeavour to come again in a Chriſtian, peaceable Manner there directed to him. It is taken from that Reaſoning of <hi>Eliezer</hi> in 2 <hi>Ma<g ref="char:EOLhyphen"/>cabees</hi> 6. <hi>For he began to conſider diſcreetly, and as became his Age, and the Honour of his Gray Hairs, whereunto he was come: Therefore he anſwered conſequently</hi> (obſerve that) In like man<g ref="char:EOLhyphen"/>ner King <hi>James</hi> might Reaſon, that it becometh not his declin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Age (He being now more than Sixty Years old) to fear Death or Impriſonment. For if Thou, O King, ſhouldſt tarry where thou art (which will be to the Deſire and Rejoycing of thine Enemies. Here one ſhould be ſure to cotradict, and go thwart, and do contrary to what Enemies would have) Thou wilt certainly die <hi>in that Countrey where thou waſt not born</hi> (which under the Old Teſtament Diſ<g ref="char:EOLhyphen"/>penſation was look'd upon as a Curſe, Threatning and Pun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhment of God) but to the Land where thou deſireſt to return, thou mayeſt as yet Return: And ſo through thy fear for a little time of tranſitory Life, People may be deceived by Thee, As if Thou not being ſo bold and courageous (as Thou oughteſt to be, in a good and righteous Cauſe) it would procure a Reproach and Suſpicion, as if it was not altogether ſo, or as if Innocency was not to be found in Thee. It is better to brings Things to this iſſue (which however at firſt ſight may ſeem doubtful or uncertain; yet if the King truſteth in the Lord, <hi>He ſhall not ſlide,</hi> Pſal. 26.7. He will Turn and Over-rule it into good, euen beyond the beſt Hope and Expectation) then always to re<g ref="char:EOLhyphen"/>main in a Forreign Nation, and there to abide for the moſt ſure Event of Mortality. But it is ſeldom that People do according to thoſe Motives, which are drawn from the conſideration of Sickneſs, or the near approach of Death, (which ſhould be moſt Forcible and Perſuaſive) Yet nevertheleſs ſuch are good and true, ſafe and wholeſome Counſels.</p>
+            <p>If thoſe Subjects of Thine, who contrary to their Oath and Duty, did Depoſe Thee ſhould al<g ref="char:EOLhyphen"/>ways <hi>Refuſe</hi> and <hi>Rebel,</hi> and never come to Repentance, ſo as to Call Thee in, and Send for Thee over themſelves (as it is but very ſeldom that Rebels do ever Repent, for <hi>Rebellion is as the Sin of Witchcraft.</hi>) Yet nevertheleſs, the Remedy is in Thy Self: Thou mayeſt ſtill in
+<pb n="4" facs="tcp:176199:3"/>the way aforementioned, come over whenſoever Thou wilt. Thou haſt alſo many Subjects here (the Lord add unto this People how many ſoever they be, an Hundred fold) who have not conſented unto the Counſel and Deed of them. And as <hi>when the Brethren come to meet him, thereupon Paul thanked God,</hi> and took Courage, Acts 28.15. So this laſt Conſideration ſhould encourage Thee alſo to praiſe God for it, and to come forward on Thy Journey after a <hi>Godly ſort,</hi> then Thou ſhalt <hi>do well,</hi> 3 Joh. 6.</p>
+            <p>It may be Proper and Seaſonable, to come over during the Abſence of the wrong Poſſeſſor.</p>
+            <p>Let the King again eonſider what is here further ſaid, and the Lord give Him Underſtanding in all Things.</p>
+            <p>Theſe foregoing Words ſhould ſome way or other be ſent or conveyed unto Him to whom they ared irected and intended.</p>
+            <closer>
+               <dateline>Written <date>
+                     <hi>April</hi> the 2d 1695.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
